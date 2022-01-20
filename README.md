@@ -1,1 +1,1 @@
-# hand-gesture-recognition-2nd-edition
+# hand-gesture-recognition-2nd-Edition
